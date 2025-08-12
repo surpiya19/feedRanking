@@ -2,14 +2,6 @@
 
 **feedRanking** is an analytical project simulating a TikTok-style dataset to evaluate the impact of different feed-ranking algorithms on user engagement. This project compares a control algorithm with a variant that prioritizes short comedy videos, aiming to determine whether the new algorithm significantly increases user interactions.
 
-## Project Structure
-feedRanking/
-├── data/ # Synthetic dataset (CSV)
-├── notebooks/ # Jupyter notebooks for analysis
-├── scripts/ # Python scripts for data processing and analysis
-├── requirements.txt # Python dependencies
-└── README.md # Project documentation
-
 ## Analysis Workflow
 
 1. **Data Preprocessing**  
