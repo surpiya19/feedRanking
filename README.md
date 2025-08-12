@@ -5,15 +5,10 @@
 ## Project Workflow 
 
 1. **Data Preprocessing**  
-   Load and clean the synthetic dataset.
 2. **Feature Engineering**  
-   Define engagement metrics based on user interactions (likes, shares, comments).
 3. **Statistical Testing**  
-   Perform a two-proportion z-test to compare engagement rates between control and variant groups.
 4. **Visualization**  
-   Generate plots to visualize engagement trends over time.
 5. **Business Recommendation**  
-   Provide actionable insights based on statistical results.
 
 ## Analysis Workflow
 - Calculated average engagement rates for control and variant groups.
