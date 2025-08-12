@@ -2,7 +2,7 @@
 
 **feedRanking** is an analytical project simulating a TikTok-style dataset to evaluate the impact of different feed-ranking algorithms on user engagement. This project compares a control algorithm with a variant that prioritizes short comedy videos, aiming to determine whether the new algorithm significantly increases user interactions.
 
-## Analysis Workflow
+## Project Workflow
 
 1. **Data Preprocessing**  
    Load and clean the synthetic dataset.
@@ -15,7 +15,7 @@
 5. **Business Recommendation**  
    Provide actionable insights based on statistical results.
 
-## Key Findings
+## Analysis Workflow
 - Calculated average engagement rates for control and variant groups.
 - Conducted a two-proportion z-test to assess statistical significance.
 - Analyzed daily engagement trends via time series visualization.
